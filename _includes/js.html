@@ -15,3 +15,16 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="{{ "/js/agency.js" | prepend: site.baseurl }}"></script>
+    <script type="text/javascript">
+      var altitudeLabel = document.getElementById("altitude");
+      var totalAltitude = 266000 + Math.floor((Math.random() * 1044000) + 1);
+      altitudeLabel.innerHTML = totalAltitude;
+
+      function updateAltitude(){
+        totalAltitude += Math.floor((Math.random() * 99) + 1);
+        altitudeLabel.innerHTML = totalAltitude;
+      }
+
+      setInterval(updateAltitude, 500);
+
+    </script>
