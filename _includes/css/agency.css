@@ -862,5 +862,5 @@ body {
 }
 
 .portfolio-modal ol, .portfolio-modal ul{
-  text-align: start;
+  list-style-position: inside;
 }

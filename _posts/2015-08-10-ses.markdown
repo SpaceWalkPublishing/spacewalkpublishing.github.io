@@ -18,7 +18,7 @@ Digital distribution of studio Jazz album. [Available online from our itch.io st
 
 Someone Else's Socks was recorded in Gainesville, FL, at [Goldentone Studio](http://www.goldentonestudio.com/). All tracks arranged by J. Fjeldheim. Most are originals, but the album features Cole Porter's 'From This Moment On' and 'Stardust' by Hoagy Carmichael and Mitchell Parish.
 
-#### Personnel:
+#### Personnel
 * Voice, piano - Jacob Fjeldheim
 * Voice - Kylie Stern
 * Trumpet – Andy Lawniczak
@@ -27,7 +27,7 @@ Someone Else's Socks was recorded in Gainesville, FL, at [Goldentone Studio](htt
 * Bass - Ty Christian
 * Drums - Dave Marsh
 
-#### Track List (30:30):
+#### Track List (30:30)
 1. Would You Say? (5:15)
 2. Happy (5:41)
 3. From This Moment On (4:27)
