@@ -860,3 +860,7 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+.portfolio-modal ol, .portfolio-modal ul{
+  text-align: start;
+}

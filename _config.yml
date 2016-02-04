@@ -18,43 +18,35 @@ people:
   pic: cas
   position: Operations Officer
   social:
-    - title: twitter
-      url: http://twitter.com/CaseyDoran/
     - title: github
       url: http://github.com/elementc/
+    - title: twitter
+      url: http://twitter.com/CaseyDoran/
 
 - name: Jacob Fjeldheim
   pic: fjeld
   position: Music Officer
   social:
+    - title: envelope
+      url: mailto:fjeldheim.j@gmail.com
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: https://twitter.com/thefjeld
 
 - name: Tyler Kerstetter
   pic: kerst
   position: Script Officer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+    - title: space-shuttle
       url: #
 
 - name: Jackson Smith
   pic: jax
   position: Prose Officer
   social:
+    - title: rss
+      url: http://pixel-scribe.com/
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/PixlScrib
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

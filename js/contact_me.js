@@ -1,3 +1,5 @@
+---
+---
 $(function() {
 
     $("input,textarea").jqBootstrapValidation({
@@ -18,15 +20,15 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
-                type: "POST",
+                url: "//formspree.io/{{site.email}}",
+                method: "POST",
                 data: {
-                    name: name,
-                    phone: phone,
-                    email: email,
-                    message: message
+                    _replyto: email,
+                    _subject: "Site inquiry from " + name,
+                    message: "Phone #: " + phone + " Message: " + message
                 },
                 cache: false,
+                dataType: "json",
                 success: function() {
                     // Success message
                     $('#success').html("<div class='alert alert-success'>");

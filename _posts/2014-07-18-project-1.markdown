@@ -1,15 +1,21 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Barbershop Tales
+subtitle: Musical and Book
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2014-07-09
+img: bst.png
+thumbnail: bst-thumbnail.png
+alt: Barbershop Tales on stage at Eastside High School
+project-date: July 9, 2014
+client: Jacob Fjeldheim, Jackson Smith, Tyler Kerstetter
+clienturl: #
+category: Publishing
+description:
 
 ---
+Our very first work. We published the book for this musical [on Amazon](http://www.amazon.com/Barbershop-Tales-Jacob-John-Fjeldheim/dp/0990566307/). It premiered for the first time at Eastside High School in Gainesville, Florida, on April 17, 2014, at 7 PM. Selections from the show were exhibited at the Florida Thespian Festival that year, with the original song "Starting To Feel Something" winning top honors statewide.
+Licensing options available. Contact us using the site form for more information.
+[Audio](https://soundcloud.com/casey-doran-1/sets/barbershop-tales) and [Video](http://www.ehsdramagvfl.org/barbershop-tales-videos.html) samples available online.
+
+Barbershop Tales is a musical romp through coming of age, tradition, and romance. It follows a young man, Joel, ready to take over his father's business (a barbershop, naturally), when his introspective yet unemployed best friend Timmy and newfound love interest Judy pull him off his father's track. His life complicates as he discovers Judy is in fact homeless, and seeks to reconcile this with himself and with her. As finally the pair seem meant to be, Judy disappears, and Joel's entire world shatters: he's left to pick up the pieces of a broken reality in a light-hearted comedic setting. Considering the former elements' intertwining and unfolding in straightforward delivery and lighthearted song and dance, Barbershop Tales is perhaps best categorized as theatre of the absurdity of reality--an exploration into what can be, a parody of seriousness. Static set. 5 males, 4 females, 7-20 flexible chorus.

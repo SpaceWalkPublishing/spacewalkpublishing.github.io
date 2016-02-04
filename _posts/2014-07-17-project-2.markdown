@@ -1,15 +1,38 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Someone Else's Socks
+subtitle: Jazz Album
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2015-08-10
+img: ses.png
+thumbnail: ses-thumbnail.png
+alt: Someone Else's Socks production team at Goldentone Studio
+project-date: December, 2015
+client: Jacob Fjeldheim
+clienturl: http://www.jacobfjeldheim.com/
+category: Digital Distribution
+description:
 
 ---
+Digital distribution of studio Jazz album. [Available online from our itch.io store.](http://spacewalkpublishing.itch.io/someone-elses-socks)
+
+Someone Else's Socks was recorded in Gainesville, FL, at [Goldentone Studio](http://www.goldentonestudio.com/). All tracks arranged by J. Fjeldheim. Most are originals, but the album features Cole Porter's 'From This Moment On' and 'Stardust' by Hoagy Carmichael and Mitchell Parish.
+
+#### Personnel:
+* Voice, piano - Jacob Fjeldheim
+* Voice - Kylie Stern
+* Trumpet – Andy Lawniczak
+* Tenor sax - Paul Johnson
+* Trombone – Brian Stevens
+* Bass - Ty Christian
+* Drums - Dave Marsh
+
+#### Track List (30:30):
+1. Would You Say? (5:15)
+2. Happy (5:41)
+3. From This Moment On (4:27)
+4. Stardust (4:57)
+5. Starting To Feel Something (4:30)
+6. Freight Train (5:44)
+
+Format: VBR (~128kbps average) AAC-encoded DRM-Free M4A files, zipped.
