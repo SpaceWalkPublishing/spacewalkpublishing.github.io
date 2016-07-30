@@ -1,0 +1,17 @@
+---
+title: GRIP
+subtitle: Digital Comic
+layout: default
+modal-id: 3
+date: 2016-07-27
+img: wgg.png
+thumbnail: wgg-thumbnail.png
+alt:
+project-date: Summer, 2016
+client: Wyatt Garland
+clienturl: https://www.facebook.com/slaughterballer99/
+category: Rapid Web Publishing
+description:
+
+---
+Wyatt spent more than a year writing and illustrating his high-fantasy graphic novel [*GRIP*](http://grip-comic.github.io/). He approached us looking for ways to skip the slow dead-tree publishing cycle, hoping to get his 250 page comic in the hands of his readers as soon as possible. We worked with Wyatt to build an extensible platform that fit his needs and featured easy setup with minimal ongoing maintenance costs, all in the course of just a single two-hour consulting session. He took our platform and ran with it, using our toolkit to tell his own amazing story at orbital velocity.
