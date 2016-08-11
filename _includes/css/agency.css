@@ -275,6 +275,12 @@ header {
     -o-background-size: cover;
 }
 
+@media only screen and (min-width: 500px) {
+    header {
+        min-height: 110vh;
+    }
+}
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
