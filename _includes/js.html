@@ -38,6 +38,7 @@
         {% for post in site.posts%}
         if(window.location.href.indexOf('#project-{{ post.modal-id }}') != -1) {
           $('#project-{{ post.modal-id }}').modal('show');
+          $(document).scrollTop($("#portfolio").offset().top);
         }
         {% endfor %}
 
