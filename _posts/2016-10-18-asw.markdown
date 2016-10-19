@@ -1,0 +1,16 @@
+---
+title: Astronomy Saves The World
+subtitle: Book
+layout: default
+modal-id: asw
+date: 2016-10-18
+embed: '<iframe class="embed-responsive-item" src="https://www.kickstarter.com/projects/841386557/astronomy-saves-the-world-the-book/widget/video.html" frameborder="0" scrolling="no"> </iframe>'
+thumbnail: asw-thumbnail.png
+project-date: November, 2016
+client: Daniel Batcheldor
+clienturl: http://danielbatcheldor.com/
+category: Print Publishing
+description:
+---
+
+After a successful Kickstarter, Dr. Batcheldor had a bunch of orders on his hands and no new help with his book. Most publishers balk at getting involved in a project at such a mature stage, or, even worse, charge exorbitantly for their services while leaving the author without the support of a traditional publishing arrangement, but our lean structure enables us to tailor our services to his needs: he had assets to hire his own printer and editing staff, leaving us to assist with layout and utilize our existing network to handle distribution. We referred in some additional friends to assist with cover art and helped chart the route to fulfilling his Kickstarter obligations. We did all the legwork he couldn't, so he could focus on his writing and meeting his own deadlines.
