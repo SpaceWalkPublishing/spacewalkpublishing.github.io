@@ -177,6 +177,10 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: 'Lato', sans-serif;
+  /*  color: #{{ site.color.primary }}; */
+}
+
+.navbar-shrink .navbar-brand{
     color: #{{ site.color.primary }};
 }
 
@@ -235,7 +239,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: transparent;
+        background-color: rgba(0,0,0,0.3);
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -265,24 +269,19 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
+    background-color: #0a0433;
     background-attachment: fixed;
-    background-image: url(img/header2-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
-
-@media only screen and (min-width: 500px) {
-    header {
-        min-height: 100vh;
-    }
+    min-height: 110vh;
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 30vh;
     padding-bottom: 50px;
 }
 
@@ -304,7 +303,6 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 300px;
         padding-bottom: 200px;
     }
 
@@ -775,7 +773,10 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content {
-    padding: 100px 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 100px;
+    padding-left: 0px;
     min-height: 100%;
     border: 0;
     border-radius: 0;
@@ -812,10 +813,10 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .close-modal {
     position: absolute;
-    top: 25px;
+    top: 12px;
     right: 25px;
-    width: 75px;
-    height: 75px;
+    width: 25px;
+    height: 25px;
     background-color: transparent;
     cursor: pointer;
 }
@@ -827,7 +828,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .close-modal .lr {
     z-index: 1051;
     width: 1px;
-    height: 75px;
+    height: 25px;
     margin-left: 35px;
     background-color: #222;
     -webkit-transform: rotate(45deg);
@@ -838,7 +839,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
-    height: 75px;
+    height: 25px;
     background-color: #222;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);

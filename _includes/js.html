@@ -27,4 +27,20 @@
 
       setInterval(updateAltitude, 250);
 
+      files = [
+        "img/header-bg.jpg",
+        "img/header2-bg.jpg",
+        "img/header3-bg.jpg"
+      ];
+      document.getElementById('header').style.backgroundImage= "url('" + files[Math.floor(Math.random()*files.length)] + "')";
+
+      $(document).ready(function() {
+        {% for post in site.posts%}
+        if(window.location.href.indexOf('#project-{{ post.modal-id }}') != -1) {
+          $('#project-{{ post.modal-id }}').modal('show');
+        }
+        {% endfor %}
+
+      });
+
     </script>

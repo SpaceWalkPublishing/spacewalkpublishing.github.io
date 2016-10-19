@@ -2,7 +2,7 @@
 title: Barbershop Tales
 subtitle: Musical and Book
 layout: default
-modal-id: 1
+modal-id: bst
 date: 2014-07-09
 img: bst.png
 thumbnail: bst-thumbnail.png

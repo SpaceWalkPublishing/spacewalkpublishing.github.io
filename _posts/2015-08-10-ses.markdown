@@ -2,7 +2,7 @@
 title: Someone Else's Socks
 subtitle: Jazz Album
 layout: default
-modal-id: 2
+modal-id: ses
 date: 2015-08-10
 img: ses.png
 thumbnail: ses-thumbnail.png

@@ -16,7 +16,7 @@ color:
 people:
 - name: Casey Doran
   pic: cas
-  position: Operations Officer
+  position: Operations
   social:
     - title: github
       url: http://github.com/elementc/
@@ -25,7 +25,7 @@ people:
 
 - name: Jacob Fjeldheim
   pic: fjeld
-  position: Music Officer
+  position: Music
   social:
     - title: envelope
       url: mailto:fjeldheim.j@gmail.com
@@ -34,14 +34,14 @@ people:
 
 - name: Tyler Kerstetter
   pic: kerst
-  position: Script Officer
+  position: Scripts
   social:
     - title: space-shuttle
       url: #
 
 - name: Jackson Smith
   pic: jax
-  position: Prose Officer
+  position: Prose
   social:
     - title: rss
       url: http://pixel-scribe.com/

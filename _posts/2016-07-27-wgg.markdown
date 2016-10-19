@@ -2,7 +2,7 @@
 title: GRIP
 subtitle: Digital Comic
 layout: default
-modal-id: 3
+modal-id: wgg
 date: 2016-07-27
 img: wgg.png
 thumbnail: wgg-thumbnail.png
