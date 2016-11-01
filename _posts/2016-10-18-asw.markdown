@@ -4,7 +4,7 @@ subtitle: Book
 layout: default
 modal-id: asw
 date: 2016-10-18
-embed: '<iframe class="embed-responsive-item" src="https://www.kickstarter.com/projects/841386557/astronomy-saves-the-world-the-book/widget/video.html" frameborder="0" scrolling="no"> </iframe>'
+embed: '<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jITn5QNwKSc" frameborder="0" allowfullscreen></iframe>'
 thumbnail: asw-thumbnail.png
 project-date: November, 2016
 client: Daniel Batcheldor
