@@ -10,7 +10,7 @@ alt: Barbershop Tales on stage at Eastside High School
 project-date: July 9, 2014
 client: Jacob Fjeldheim, Jackson Smith, Tyler Kerstetter
 clienturl: #
-category: Publishing
+category: Print Publishing
 description:
 
 ---

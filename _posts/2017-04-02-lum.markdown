@@ -1,0 +1,17 @@
+---
+title: Luminosity
+subtitle: Pebble Smartwatch Face
+layout: default
+modal-id: lum
+date: 2017-04-02
+img: lum.png
+thumbnail: lum-thumbnail.png
+alt: Luminosity watch face examples.
+project-date: April, 2017
+client: Spacewalk Publishing Skunkworks
+clienturl: http://www.spacewalkpublishing.us/
+category: Software Engineering, Data Visualization
+description:
+
+---
+Based on the open source watchface [Planets, by Alex Karantza](https://github.com/karantza/Planets_PebbleFace), the Spacewalk team created a new, high-information-density, eminently glanceable face for the Pebble smartwatch platform. Powered by Dark Sky weather data and using a custom weather backend written in Python and Javascript, the face, written in C, features a 24 hour timeline of weather forecast, including temperature, cloud cover, precipitation, and wind data. It's customizable, regularly updated, and [free and open-source.](https://github.com/elementc/luminosity)
