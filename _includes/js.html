@@ -30,9 +30,10 @@
       files = [
         "img/header-bg.jpg",
         "img/header2-bg.jpg",
-        "img/header3-bg.jpg"
+        "img/header3-bg.jpg",
+        "img/header4-bg.jpg"
       ];
-      document.getElementById('header').style.backgroundImage= "url('" + files[Math.floor(Math.random()*files.length)] + "')";
+      document.getElementById('bg-hero').src=files[Math.floor(Math.random()*files.length)];
 
       $(document).ready(function() {
         {% for post in site.posts%}
@@ -44,4 +45,8 @@
 
       });
 
+      $(window).on("load", function() {
+        document.getElementById('bg-fade-triggered').style.animation="fadein 2s forwards";
+      }
+    );
     </script>

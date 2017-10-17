@@ -1,0 +1,17 @@
+---
+title: Chell Financial Data Rescue
+subtitle: Software Engineering Consulting
+layout: default
+modal-id: cfs
+date: 2017-04-02
+img: cfs.jpg
+thumbnail: cfs-thumbnail.png
+alt: Chell Financial's Offices
+project-date: Summer, 2017
+client: Chell Financial
+clienturl: #
+category: Data Recovery, System Automation
+description:
+
+---
+We had heard that the financial world moves quick, but we had no clue how fast things can be for real until we got a call from financial planners Jim Chell and Nelson Cover. When they decided to change one of their suppliers, they had a matter of hours to pull hundreds of client records out of a supplier web portal before their data was lost to corporate ransom, an impossible task to complete manually. Our expertise in web systems and automation helped scrape all the data they would have otherwise lost, dumping data into a secure sqlite database as well as a set of pre-filled PDF forms, ready for printing, signing, and mailing. We were proud to help Chell Financial with their high tech needs, and are excited to have helped them provide amazing customer service. 
